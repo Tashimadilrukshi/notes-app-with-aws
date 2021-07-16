@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "notesappwithaws17dd9242": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
